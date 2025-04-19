@@ -1,17 +1,10 @@
-- 👋 Hi, I’m @Vitriol-nT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <html>
   <head>
     <style>
       h1.Head {
         font-family="Helvetica";
-        font-size=50px;
+        font-size=100px;
+        align="center";
         }
       body {
         background-color="black";
