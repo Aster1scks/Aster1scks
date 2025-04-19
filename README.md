@@ -4,7 +4,6 @@
       h1.Head {
         font-family="Helvetica";
         font-size=100px;
-        align="center";
         }
       body {
         background-color="black";
