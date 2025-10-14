@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-    <p>I try to do art with my baby codes</p>
+    <p>im moving onto cpp</p>
   </body>
 </html>
