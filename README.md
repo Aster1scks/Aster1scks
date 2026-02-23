@@ -1,3 +1,7 @@
 <html>
-  <p>im not charlatan i swear</p>
+  <head>
+  </head>
+  <body>
+    <p>im not charlatan i swear</p>
+  </body>
 </html>
